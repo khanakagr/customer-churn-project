@@ -155,4 +155,4 @@ The project successfully developed a churn prediction model with strong recall p
 ## Author
 
 Khanak Agrawal  
-[LinkedIn]((https://www.linkedin.com/in/khanak-agrawal-51025037b/)) | [GitHub](https://github.com/khanakagr)
+[LinkedIn](https://www.linkedin.com/in/khanak-agrawal-51025037b/) | [GitHub](https://github.com/khanakagr)
